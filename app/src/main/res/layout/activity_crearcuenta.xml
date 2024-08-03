@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Crearcuenta">
+
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/reg"
+        android:textAlignment="center"
+        android:textColor="@color/SENA"
+        android:textColorLink="@color/SENA"
+        android:textSize="24sp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/logosena"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="50dp" />
+
+
+    <EditText
+        android:id="@+id/editTextDate2"
+        android:layout_width="149dp"
+        android:layout_height="44dp"
+        android:ems="10"
+        android:hint="@string/nom"
+        android:inputType="date"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="313dp" />
+
+    <EditText
+        android:id="@+id/editTextDate3"
+        android:layout_width="207dp"
+        android:layout_height="39dp"
+        android:ems="10"
+        android:hint="@string/ape"
+        android:inputType="date"
+        tools:layout_editor_absoluteX="188dp"
+        tools:layout_editor_absoluteY="318dp" />
+
+    <EditText
+        android:id="@+id/editTextDate4"
+        android:layout_width="150dp"
+        android:layout_height="49dp"
+        android:ems="10"
+        android:hint="@string/cel"
+        android:inputType="date"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="372dp" />
+
+    <EditText
+        android:id="@+id/editTextTextEmailAddress"
+        android:layout_width="398dp"
+        android:layout_height="57dp"
+        android:ems="10"
+        android:hint="@string/cor"
+        android:inputType="textEmailAddress"
+        tools:layout_editor_absoluteX="6dp"
+        tools:layout_editor_absoluteY="440dp" />
+
+    <EditText
+        android:id="@+id/editTextTextPassword2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/con"
+        android:inputType="textPassword"
+        tools:layout_editor_absoluteX="100dp"
+        tools:layout_editor_absoluteY="513dp" />
+
+ <Button
+    android:id="@+id/button3"
+    android:layout_width="220dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:backgroundTint="@color/faceboock"
+    android:text="@string/btnloginfa"
+    android:textAlignment="center"
+    android:textColor="@color/white"
+    tools:layout_editor_absoluteX="95dp"
+    tools:layout_editor_absoluteY="618dp" />
+
+
+
+</LinearLayout>

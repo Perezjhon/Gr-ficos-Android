@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyApp1</string>
+    <string name="btn1">Crear Cuenta</string>
+    <string name="bt2">Boton2</string>
+
+    //Pantalla Login//
+    <string name="logo">INICIAR SESION</string>
+    <string name="btn_email">INGRESAR CORREO</string>
+    <string name="btn_pass">INGRESAR CONTRASEÑA</string>
+    <string name="btnlogin">INGRESAR</string>
+    <string name="btnloginfa">CREAR CUENTA</string>
+    <string name="btnlogingo">INGRESAR GOOGLE</string>
+    <string name="btnRECU">recuperar contraseña</string>
+
+    //Pantalla Registrar
+    <string name="nom">Nombres</string>
+    <string name="ape">Apellidos</string>
+    <string name="cor">Correo Electronico</string>
+    <string name="cel">Celular</string>
+    <string name="con">Contraseña</string>
+    <string name="reg">Registrarse</string>
+
+
+    //Pantalla Recuperar
+<string name="bt3">Recuperar Contraseña</string>
+    <string name="btn">Ingrese Su Correo Electronico</string>
+</resources>

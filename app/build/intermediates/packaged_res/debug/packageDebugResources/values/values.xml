@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="SENA">#39A900</color>
+    <color name="black">#FF000000</color>
+    <color name="faceboock">#0D3BAE</color>
+    <color name="gogle">#B60202</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="ape">Apellidos</string>
+    <string name="app_name">MyApp1</string>
+    <string name="bt2">Boton2</string>
+    <string name="bt3">Recuperar Contraseña</string>
+    <string name="btn">Ingrese Su Correo Electronico</string>
+    <string name="btn1">Crear Cuenta</string>
+    <string name="btnRECU">recuperar contraseña</string>
+    <string name="btn_email">INGRESAR CORREO</string>
+    <string name="btn_pass">INGRESAR CONTRASEÑA</string>
+    <string name="btnlogin">INGRESAR</string>
+    <string name="btnloginfa">CREAR CUENTA</string>
+    <string name="btnlogingo">INGRESAR GOOGLE</string>
+    <string name="cel">Celular</string>
+    <string name="con">Contraseña</string>
+    <string name="cor">Correo Electronico</string>
+    <string name="logo">INICIAR SESION</string>
+    <string name="nom">Nombres</string>
+    <string name="reg">Registrarse</string>
+    <style name="Base.Theme.MyApp1" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyApp1" parent="Base.Theme.MyApp1"/>
+</resources>

@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-debug-31:/layout_activity_crearcuenta.xml.flat",
+        "source": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-main-33:/layout/activity_crearcuenta.xml"
+    },
+    {
+        "merged": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.sena.myapp1.app-debug-31:/layout_activity_recuperarcontra.xml.flat",
+        "source": "com.sena.myapp1.app-main-33:/layout/activity_recuperarcontra.xml"
+    },
+    {
+        "merged": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-debug-31:/drawable_logosena.png.flat",
+        "source": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-main-33:/drawable/logosena.png"
+    },
+    {
+        "merged": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-debug-31:/layout_activity_recuperarcontra.xml.flat",
+        "source": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-main-33:/layout/activity_recuperarcontra.xml"
+    },
+    {
+        "merged": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-debug-31:/xml_backup_rules.xml.flat",
+        "source": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "/private/var/adminmac/.gradle/daemon/8.6/com.sena.myapp1.app-main-33:/layout/activity_main.xml"
+    }
+]
